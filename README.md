@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradyumn Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif">
+<img align="right" alt="Coding" width="600" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubpradyumn&label=Profile%20views&color=0e75b6&style=flat" alt="githubpradyumn" /> </p>
 
