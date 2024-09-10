@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img height="600" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
+  <img style=max-width: 100%; display: inline-block; src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 </div>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=githubpradyumn.githubpradyumn&left_color=black&right_color=red&left_text=Holla"  />
