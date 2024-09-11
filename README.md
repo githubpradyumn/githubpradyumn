@@ -79,7 +79,7 @@
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=githubpradyumn&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=15&order=3" height="225" alt="streak graph"  />
-  <br><br>
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubpradyumn&theme=merko&radius=16" height="280" alt="activity-graph graph"  />
 </div>
 <hr>
