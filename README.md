@@ -19,7 +19,13 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">👋 Hi, I'm Pradyumn Pratap Singh!
+
+- 🔭 I’m currently a student developer, passionate about creating impactful solutions through code.
+- 🌱 I’m learning Web Development and exploring the world of Artificial Intelligence.
+- 👨‍💻 I'm building projects that combine creativity with cutting-edge technologies.
+- ⚡ In my free time, I love solving coding challenges and watch anime (One Piece).
+</p>
 
 ###
 
