@@ -74,6 +74,11 @@
 
 ###
 <br>
+<h2>#30NitesOfCode: <a href="https://www.codedex.io/@mrstrange09/30-nites-of-code">Check out my progress!</a></h2>
+<div align="center">
+  <img src="https://www.codedex.io/api/petStatus?user=mrstrange09" alt="Progress of @mrstrange09 #30NitesOfCode">
+</div>
+
 
 <h1 align="left">🤖 My GitHub Stats :</h1>
 
@@ -99,4 +104,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Thought-Provoking Quote" />
 </p>
 
-<!--<img src="https://raw.githubusercontent.com/githubpradyumn/githubpradyumn/output/snake.svg" alt="Snake animation" />-->
+
+
