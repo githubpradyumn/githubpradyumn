@@ -74,10 +74,10 @@
 
 ###
 <br>
-<h2>#30NitesOfCode: <a href="https://www.codedex.io/@mrstrange09/30-nites-of-code">Check out my progress!</a></h2>
+<!-- <h2>#30NitesOfCode: <a href="https://www.codedex.io/@mrstrange09/30-nites-of-code">Check out my progress!</a></h2>
 <div align="center">
   <img src="https://www.codedex.io/api/petStatus?user=mrstrange09" alt="Progress of @mrstrange09 #30NitesOfCode">
-</div>
+</div> -->
 
 
 <h1 align="left">🤖 My GitHub Stats :</h1>
