@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey There👋, I'm Pradyumn Pratap Singh... </h1>
+<h1 align="center">Hey There👋, I'm Pradyumn Pratap Singh.... </h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Full-Stack+Developer;Backend+Engineer;Tech+Enthusiast;Problem+Solver&font=Fira Code&center=true&width=440&height=45&color=0073ff&vCenter=true&size=22" alt="Typing SVG">
 </p>
