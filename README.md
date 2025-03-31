@@ -96,15 +96,14 @@
 </div>
 <hr>
 
-
-<h3 align="left">💡Random Dev Joke 😂:</h3>
+<!--<h3 align="left">💡Random Dev Joke 😂:</h3>
 <p align="left">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
 </p> 
 <h3 align="center">🧠 Thought-Provoking Quote</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Thought-Provoking Quote" />
-</p>
+</p> -->
 
 
 
